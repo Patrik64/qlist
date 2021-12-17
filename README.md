@@ -42,4 +42,4 @@ open the browser and navigate to:
 
 ## ⚠️&nbsp;&nbsp;Note
 
-- The application uses Google Firestore, so to run the application you'll need to create your own Firestore instance and provide the valid keys to src/firebase.qlist.js
+- The application uses Google Firestore, so to run the application you'll need to create your own Firestore instance and provide the valid keys to ``src/firebase.qlist.js``
