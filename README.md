@@ -38,3 +38,8 @@ __for production mode:__
 open the browser and navigate to:
 
 `http://localhost:8080`
+
+
+## ⚠️&nbsp;&nbsp;Note
+
+- The application uses Google Firestore, so to run the application you'll need to create your own Firestore instance and provide the valid keys to src/firebase.qlist.js
